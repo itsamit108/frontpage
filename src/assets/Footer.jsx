@@ -5,7 +5,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <div className="container text-white" style={{ marginTop: '100vh' }}>
+    <div className="container text-white" style={{ marginTop: '25vh' }}>
       <footer>
         <hr />
         <div className="d-flex justify-content-between">
