@@ -4,7 +4,7 @@ import NewsCard from './NewsCard';
 import InfiniteScroll from 'react-infinite-scroll-component';
 
 
-const API_KEY = "";// Your API Key
+const API_KEY = "ff4f387b5e584f9b9d1d505334d5290c";
 const API_BASE_URL = 'https://newsapi.org/v2/top-headlines';
 
 export default class NewsComponent extends Component {
