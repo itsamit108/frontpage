@@ -14,7 +14,6 @@ FrontPage is built using the following advanced technologies:
 ## Features
 
 * Browse news articles from diverse sources: FrontPage allows users to browse news articles from a wide range of sources, including local and international news outlets, giving users a comprehensive view of the latest news stories.
-* Search for specific news articles: The app's search function enables users to search for news articles by keywords or phrases, making it easier to find relevant content.
 * Filter news articles by category: FrontPage categorizes news articles by different topics, such as politics, sports, entertainment, technology, etc. Users can filter news articles by category to find articles that match their interest
 
 ## Installation
